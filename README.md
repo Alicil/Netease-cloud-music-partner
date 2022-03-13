@@ -70,5 +70,6 @@ cp /ql/repo/KotoriMinami_qinglong-sign/sg_config.json /ql/config/sg_check.json
 [@Sitoi](https://github.com/Sitoi)
 
 [@yuxian158](https://github.com/yuxian158/)
+[@KotoriMinami](https://github.com/KotoriMinami)
 
 [@weixin_44530979](https://blog.csdn.net/weixin_44530979)
